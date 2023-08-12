@@ -59,13 +59,46 @@ You can view the output results of this project by clicking on the Google-drive 
 
 ## <u>Progress<u>
 
+* Admin Progress
+  - [x] Creating Admin Login
+  - [x] Verifying authorized admin with help of _Security Key_
+  - [x] Checking application forms one by one by retrieving data from database
+  - [x] Sending _Concession Letter_ to applicant if form is valid
+  - [x] Sending grievances if found any  
 
+* Student Login
+  - [x] Creating Student Login
+  - [x] Creating new account and storing the data in database
+  - [x] Applying for concession scheme
+  - [x] Submit the form    
 
 ## <u>Application<u>
+
+This project can be used by college students to get concession on their travelling `Local Train` passes.
 
 
 ## <u>Eligible Students<u>
 
 
+
+
 ## <u>Future Scope<u>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
