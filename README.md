@@ -79,11 +79,15 @@ This project can be used by college students to get concession on their travelli
 
 ## <u>Eligible Students<u>
 
-
+Students from various courses such as `Diploma, B.Tech, M.Tech, PhD` can apply for scheme
 
 
 ## <u>Future Scope<u>
 
+New features can be added such as: 
+
+* Students being able to upate their personal data
+* Adding valid time period for generated letter by admin
 
 
 
