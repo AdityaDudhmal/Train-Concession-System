@@ -34,7 +34,7 @@ Below is the list of features that each login provides:
 ## <u>Results<u>
 
 You can view the output results of this project by clicking on the Google-drive link given below:
-> https://drive.google.com/drive/folders/1onbI4armLuRy4p53OSjA6VFfVTy3M4kF?usp=drive_link
+> https://drive.google.com/drive/folders/1onbI4armLuRy4p53OSjA6VFfVTy3M4kF?usp=sharing
 
 
 ## <u>Project Setup<u>
